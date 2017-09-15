@@ -1,7 +1,8 @@
 # Authentication
 
-## Teacher Signup
-This API is used for the teacher signup with his/her username,email & password.
+## Teacher Sign up
+
+This API is used for the teacher sign up with his/her username,email & password.
 
  
 ```shell
@@ -28,6 +29,7 @@ password | string | true  | Password of the user
 
 <aside class="success">status:200 OK </aside>
 <aside class="warning">status:422 Unprocessable entry.</aside>
+
 
 ## Teacher Login
 
